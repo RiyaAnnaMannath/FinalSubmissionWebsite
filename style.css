@@ -1,0 +1,20 @@
+/* Custom brown color using Tailwind's utility override */
+.text-brown-800 {
+    color: #5C4033;
+  }
+  .text-brown-700 {
+    color: #704214;
+  }
+  .text-brown-900 {
+    color: #3B2F2F;
+  }
+  .bg-brown-800 {
+    background-color: #5C4033;
+  }
+  .bg-brown-700 {
+    background-color: #704214;
+  }
+  .border-brown-400 {
+    border-color: #A9746E;
+  }
+  
